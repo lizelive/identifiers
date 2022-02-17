@@ -1,8 +1,12 @@
 [package]
-name = "keywords-rs"
+name = "identifiers"
 version = "0.1.0"
 edition = "2021"
 
+license = "MIT OR Apache-2.0"
+description = "Utilities for working with rust identifiers and keywords."
+repository = "https://github.com/lizelive/identifiers"
+homepage = "https://github.com/lizelive/identifiers"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
